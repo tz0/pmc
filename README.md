@@ -23,7 +23,8 @@ Example:
 `[result] [pmc1 pmc2] = [96 5]`
 
 
-
+Details of PMC configurations such as events, event numbers and umasks can be found from the Intel manuals:
+https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html
 
 
 
